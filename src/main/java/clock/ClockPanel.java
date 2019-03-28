@@ -23,3 +23,6 @@ public abstract class ClockPanel extends JPanel {
      */
     public abstract void displayTime(int hour, int minute, int second);
 }
+
+
+// My comment
